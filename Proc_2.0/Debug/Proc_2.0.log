@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\й\desktop\visual studio\proc_2.0\proc_2.0\main.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Proc_2.0.vcxproj -> C:\Users\й\Desktop\Visual Studio\Proc_2.0\Debug\Proc_2.0.exe
